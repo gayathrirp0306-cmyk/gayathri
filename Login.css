@@ -1,0 +1,22 @@
+
+.login-page {
+  height: 100vh;
+  width: 100vw;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background: linear-gradient(135deg, #0b0033, #1a004d);
+}
+
+.login-box {
+  width: 320px;
+  padding: 30px;
+
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 12px;
+
+  color: rgb(251, 245, 245);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
